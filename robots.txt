@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ar-telmid.github.io/sitemap.xml
